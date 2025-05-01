@@ -48,12 +48,6 @@ const HeroSection = () => {
             </Button>
           </Link>
 
-            {/* Link to edit latter on after pushing code to github */}
-          <Link href="https://www.youtube.com/roadsidecoder">
-            <Button size="lg" variant="outline" className="px-8">
-              Source Code
-            </Button>
-          </Link>
         </div>
 
         {/* Banner Image on Landing Page */}
